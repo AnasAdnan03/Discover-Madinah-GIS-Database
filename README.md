@@ -1,6 +1,11 @@
 \# Discover Madinah — Graduation GIS \& Database Project
 
+![Discover Madinah](images/madinah-map.png)
 
+![Graduation Project](https://img.shields.io/badge/Project-Graduation-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![GIS](https://img.shields.io/badge/GIS-Mapping-success)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 \## Project Overview
 
