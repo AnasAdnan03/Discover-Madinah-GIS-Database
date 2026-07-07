@@ -1,6 +1,6 @@
 \# Discover Madinah — Graduation GIS \& Database Project
 
-![Discover Madinah](images/madinah-map.png)
+![Discover Madinah](images/madinah-main-map.png)
 
 ![Graduation Project](https://img.shields.io/badge/Project-Graduation-blue)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue)
@@ -179,7 +179,45 @@ The project demonstrates how structured data and interactive interfaces can impr
 
 
 
-\## Screenshots
+## Screenshots
+
+### Main Map View
+
+![Main Map View](images/madinah-main-map.png)
+
+The main interface allows users to explore attractions in Madinah through an interactive map, categorized markers, search, and suggested places.
+
+---
+
+### Admin Dashboard
+
+![Admin Dashboard](images/madinah-admin-dashboard.png)
+
+The admin dashboard provides an overview of key system data, including total places, users, comments, and ratings.
+
+---
+
+### Login Page
+
+![Login Page](images/madinah-login.png)
+
+The login page supports user and admin access, allowing different types of users to interact with the system.
+
+---
+
+### Chatbot Assistant
+
+![Chatbot Assistant](images/madinah-chatbot.png)
+
+The chatbot assistant helps users find suitable places and ask questions while exploring Madinah.
+
+---
+
+### Place Details Page
+
+![Place Details](images/madinah-place-details.png)
+
+The place details page displays images, rating, working hours, description, and navigation options for selected attractions.
 
 
 
