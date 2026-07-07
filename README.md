@@ -221,14 +221,6 @@ The place details page displays images, rating, working hours, description, and 
 
 
 
-\### Interactive Map View
-
-
-
-!\[Discover Madinah Map](images/madinah-map.png)
-
-
-
 \---
 
 
